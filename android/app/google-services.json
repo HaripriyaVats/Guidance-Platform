@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523517279635",
+    "project_id": "codehelp-fb3d4",
+    "storage_bucket": "codehelp-fb3d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523517279635:android:4b7fe82199966ecfcb3c66",
+        "android_client_info": {
+          "package_name": "com.example.codehelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523517279635-h55lqsds0jvribua1v0na1jj5ungci62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC91gvcvcboLs7O6_fjS4QYcWV0bYWMh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523517279635-h55lqsds0jvribua1v0na1jj5ungci62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
